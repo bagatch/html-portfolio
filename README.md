@@ -1,2 +1,2 @@
 # html-portfolio
-Beginning to learn html coding
+My coding journey so far through my mini project.
